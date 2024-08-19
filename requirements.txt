@@ -1,5 +1,5 @@
 Faker==27.0.0
-pandas==2.2.2
-pymongo==4.8.0
-streamlit==1.37.0
+pandas==2.0.3
+pymongo==4.3.3
+streamlit==1.21.0
 streamlit_option_menu==0.3.13
